@@ -10,7 +10,6 @@ interface AnalyticCardProps {
     datasets: {
       label: string;
       data: number[];
-      : string[];
       borderColor: string[];
     }[];
   };
